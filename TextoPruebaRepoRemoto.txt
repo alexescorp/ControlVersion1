@@ -1,3 +1,4 @@
 Este es un documento de prueba para realizar una practica de control de versines conectandoce a un repositorio remoto.
 
-1. Esta es una modificacione de prueba
+1. Esta es una modificacion de prueba
+2. Esta es una modificacion en la web para validar cambios en el repositorio desde la PC 
