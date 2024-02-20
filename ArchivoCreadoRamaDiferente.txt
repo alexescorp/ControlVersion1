@@ -1,1 +1,2 @@
 Este es un archivo creado en la maquina local en una rama diferente
+Linea de codigo faltante despues del commit, archivo rama diferente
