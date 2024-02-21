@@ -7,3 +7,6 @@ Este es un documento de prueba para realizar una practica de control de versines
 // area de codigo
 if(false)
 	print("Hola desde maquina local");
+else
+  print("Hola mundo desde la web");
+
