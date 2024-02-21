@@ -4,3 +4,6 @@ Este es un documento de prueba para realizar una practica de control de versines
 2. Esta es una modificacion en la web para validar cambios en el repositorio desde la PC 
 3. Este es una linea de codigo que simula error a revertir.
 4. Linea de codigo faltante despues del commit, reporemoto
+// area de codigo
+if(true)
+  print("Hola mundo desde la web");
